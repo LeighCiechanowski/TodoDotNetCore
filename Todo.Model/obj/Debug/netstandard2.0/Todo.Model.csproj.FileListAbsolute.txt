@@ -1,0 +1,9 @@
+/Users/leighciechanowski/Projects/TodoApp/Todo.Model/bin/Debug/netstandard2.0/Todo.Model.deps.json
+/Users/leighciechanowski/Projects/TodoApp/Todo.Model/bin/Debug/netstandard2.0/Todo.Model.dll
+/Users/leighciechanowski/Projects/TodoApp/Todo.Model/bin/Debug/netstandard2.0/Todo.Model.pdb
+/Users/leighciechanowski/Projects/TodoApp/Todo.Model/obj/Debug/netstandard2.0/Todo.Model.csprojResolveAssemblyReference.cache
+/Users/leighciechanowski/Projects/TodoApp/Todo.Model/obj/Debug/netstandard2.0/Todo.Model.csproj.CoreCompileInputs.cache
+/Users/leighciechanowski/Projects/TodoApp/Todo.Model/obj/Debug/netstandard2.0/Todo.Model.AssemblyInfoInputs.cache
+/Users/leighciechanowski/Projects/TodoApp/Todo.Model/obj/Debug/netstandard2.0/Todo.Model.AssemblyInfo.cs
+/Users/leighciechanowski/Projects/TodoApp/Todo.Model/obj/Debug/netstandard2.0/Todo.Model.dll
+/Users/leighciechanowski/Projects/TodoApp/Todo.Model/obj/Debug/netstandard2.0/Todo.Model.pdb
