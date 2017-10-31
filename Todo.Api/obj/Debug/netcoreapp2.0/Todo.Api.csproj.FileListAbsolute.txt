@@ -3,11 +3,11 @@
 /Users/leighciechanowski/Projects/TodoApp/Todo.Api/bin/Debug/netcoreapp2.0/Todo.Api.runtimeconfig.dev.json
 /Users/leighciechanowski/Projects/TodoApp/Todo.Api/bin/Debug/netcoreapp2.0/Todo.Api.dll
 /Users/leighciechanowski/Projects/TodoApp/Todo.Api/bin/Debug/netcoreapp2.0/Todo.Api.pdb
+/Users/leighciechanowski/Projects/TodoApp/Todo.Api/bin/Debug/netcoreapp2.0/Todo.Model.dll
+/Users/leighciechanowski/Projects/TodoApp/Todo.Api/bin/Debug/netcoreapp2.0/Todo.Model.pdb
 /Users/leighciechanowski/Projects/TodoApp/Todo.Api/obj/Debug/netcoreapp2.0/Todo.Api.csprojResolveAssemblyReference.cache
 /Users/leighciechanowski/Projects/TodoApp/Todo.Api/obj/Debug/netcoreapp2.0/Todo.Api.csproj.CoreCompileInputs.cache
 /Users/leighciechanowski/Projects/TodoApp/Todo.Api/obj/Debug/netcoreapp2.0/Todo.Api.AssemblyInfoInputs.cache
 /Users/leighciechanowski/Projects/TodoApp/Todo.Api/obj/Debug/netcoreapp2.0/Todo.Api.AssemblyInfo.cs
 /Users/leighciechanowski/Projects/TodoApp/Todo.Api/obj/Debug/netcoreapp2.0/Todo.Api.dll
 /Users/leighciechanowski/Projects/TodoApp/Todo.Api/obj/Debug/netcoreapp2.0/Todo.Api.pdb
-/Users/leighciechanowski/Projects/TodoApp/Todo.Api/bin/Debug/netcoreapp2.0/Todo.Model.dll
-/Users/leighciechanowski/Projects/TodoApp/Todo.Api/bin/Debug/netcoreapp2.0/Todo.Model.pdb

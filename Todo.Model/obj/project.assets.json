@@ -177,8 +177,7 @@
     ]
   },
   "packageFolders": {
-    "/Users/leighciechanowski/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/leighciechanowski/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -187,13 +186,10 @@
       "projectName": "Todo.Model",
       "projectPath": "/Users/leighciechanowski/Projects/TodoApp/Todo.Model/Todo.Model.csproj",
       "packagesPath": "/Users/leighciechanowski/.nuget/packages/",
-      "outputPath": "/Users/leighciechanowski/Projects/TodoApp/Todo.Model/obj/",
+      "outputPath": "/Users/leighciechanowski/Projects/TodoApp/Todo.Model/obj",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/leighciechanowski/.nuget/NuGet/NuGet.Config"
+        "/Users/leighciechanowski/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
