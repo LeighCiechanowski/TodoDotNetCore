@@ -4809,16 +4809,6 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
-      },
-      "Todo.Model/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Todo.Model.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Todo.Model.dll": {}
-        }
       }
     },
     ".NETCoreApp,Version=v2.0/win": {
@@ -9679,16 +9669,6 @@
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
-        }
-      },
-      "Todo.Model/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Todo.Model.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Todo.Model.dll": {}
         }
       }
     },
@@ -14805,16 +14785,6 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
-      },
-      "Todo.Model/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Todo.Model.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Todo.Model.dll": {}
-        }
       }
     },
     ".NETCoreApp,Version=v2.0/win-x86": {
@@ -19929,16 +19899,6 @@
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
-        }
-      },
-      "Todo.Model/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Todo.Model.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Todo.Model.dll": {}
         }
       }
     }
@@ -28857,19 +28817,13 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
-    },
-    "Todo.Model/1.0.0": {
-      "type": "project",
-      "path": "../Todo.Model/Todo.Model.csproj",
-      "msbuildProject": "../Todo.Model/Todo.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
-      "Swashbuckle.AspNetCore >= 1.0.0",
-      "Todo.Model >= 1.0.0"
+      "Swashbuckle.AspNetCore >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -28895,11 +28849,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "/Users/leighciechanowski/Projects/TodoApp/Todo.Model/Todo.Model.csproj": {
-              "projectPath": "/Users/leighciechanowski/Projects/TodoApp/Todo.Model/Todo.Model.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

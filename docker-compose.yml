@@ -1,0 +1,18 @@
+version: '3.2'
+
+services:
+  todo-api:
+    build:
+      context: ./Todo.Api
+    ports:
+     - "5002:80"
+    container_name: todo-api
+      
+  todo-frontend:
+    build:
+      context: ./Todo.Web
+    ports:
+     - "5003:80"
+    container_name: todo-web
+    depends_on:
+      - todo-api
