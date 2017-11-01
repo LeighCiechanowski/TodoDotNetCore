@@ -1,5 +1,11 @@
 ﻿<Properties StartupConfiguration="{A844B736-D9B6-4723-8430-587A58843855}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Todo.Web/Dockerfile">
+    <Files>
+      <File FileName="Todo.Api/Dockerfile" Line="1" Column="1" />
+      <File FileName="docker-compose.yml" Line="8" Column="13" />
+      <File FileName="Todo.Web/Dockerfile" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Todo.Api PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

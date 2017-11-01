@@ -5,11 +5,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Web", "Todo.Web\Todo.W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Api", "Todo.Api\Todo.Api.csproj", "{A844B736-D9B6-4723-8430-587A58843855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Model", "Todo.Model\Todo.Model.csproj", "{FC40623C-F8C0-46B1-A146-27B6BAA59F53}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7A2EF084-305E-4727-A189-75AE4DCB8857}"
 	ProjectSection(SolutionItems) = preProject
-		..\docker-compose.yml = ..\docker-compose.yml
+		docker-compose.yml = docker-compose.yml
 	EndProjectSection
 EndProject
 Global
@@ -26,9 +24,5 @@ Global
 		{A844B736-D9B6-4723-8430-587A58843855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A844B736-D9B6-4723-8430-587A58843855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A844B736-D9B6-4723-8430-587A58843855}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FC40623C-F8C0-46B1-A146-27B6BAA59F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FC40623C-F8C0-46B1-A146-27B6BAA59F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FC40623C-F8C0-46B1-A146-27B6BAA59F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FC40623C-F8C0-46B1-A146-27B6BAA59F53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
